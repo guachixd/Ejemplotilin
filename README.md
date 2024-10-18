@@ -27,7 +27,7 @@ A continuacion **enlace** o *link*
 [Epic Games](https://www.epicgames.com/site/es-ES/home)
 A Continuacion una __Imagen__
 
-![Imagen Fortnite](https://tse3.mm.bing.net/th/id/OIP.Ivv_uwLZvqbxfmZRNqQmawAAAA?rs=1&pid=ImgDetMain)
+![Imagen Fortnite](https://tse4.mm.bing.net/th/id/OIP.lXGKgEapQmdaC8TSdWDiuwHaEK?rs=1&pid=ImgDetMain)
 
 # Titulo nivel 1
 ### Titulo nivel 2
